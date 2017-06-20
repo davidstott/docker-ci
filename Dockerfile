@@ -1,3 +1,4 @@
+# pull centos and install node and run app
 FROM centos:centos6
 MAINTAINER davidstott@gmail.com
 
